@@ -1,6 +1,6 @@
 package com.controlpay.ir.steps;
 
-import com.controlpay.ir.pages.DictionaryPage;
+import com.controlpay.ir.helpers.DictionaryPage;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 

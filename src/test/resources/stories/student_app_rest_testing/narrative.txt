@@ -1,0 +1,4 @@
+Student application testing with REST API
+In order to perform integration testing
+As a tester
+I need to test REST API
